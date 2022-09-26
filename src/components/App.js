@@ -5,7 +5,7 @@ import StreamDelete from './streams/StreamDelete'
 import StreamEdit from './streams/StreamEdit'
 import StreamList from './streams/StreamList'
 import StreamShow from './streams/StreamShow'
-import Header from './streams/Header'
+import Header from '../components/Header'
 // const Pageone = () => {
 //   return (
 //     <>
